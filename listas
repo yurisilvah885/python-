@@ -1,0 +1,3 @@
+lanche=['hamburguer', 'suco', 'pizza', 'pudim']
+lanche[2]='refrigerante'
+print (lanche)
