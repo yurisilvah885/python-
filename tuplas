@@ -1,0 +1,5 @@
+lanche=('hamburguer', 'suco', 'pizza', 'pudim')
+for comida in lanche:
+    print (f'eu comi muito {lanche}')
+
+print (lanche)
